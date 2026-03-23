@@ -83,4 +83,4 @@ This repository uses a Dual License approach for Open Science:
 
 All source code and scripts are licensed under the MIT License.
 All scientific data, structures, and CIF files are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
-Please see the LICENSE.md file for full details.
+Please see the LICENSE.md file for full details
