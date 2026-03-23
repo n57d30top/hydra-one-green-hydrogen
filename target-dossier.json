@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "institution.hydra-one-target-dossier.v1",
+  "targetDossierId": "hydra-one-target-dossier:ecc78359-289c-4c88-93c9-511f69d54e3a",
+  "programId": "program:sovereign-factory:trinode",
+  "laneId": "chemistry_hydra_one",
+  "targetLabel": "Hydra One durability replay epsilon",
+  "electrolyzerFamily": "aem",
+  "catalystFocus": "anode_oxygen_evolution",
+  "electrolyteEnvironment": "alkaline",
+  "missionObjective": "Repeat the strongest bounded AEM-adjacent durability posture once more before any partner framing is considered.",
+  "targetCurrentDensityAcm2": 0.88,
+  "maxOverpotentialMv": 395,
+  "durabilityTargetHours": 1850,
+  "maxCriticalMineralIntensity": 0.3,
+  "allowedExecutionModes": [
+    "fixture_stub"
+  ],
+  "approvalMode": "human_required",
+  "governanceStatus": "approved",
+  "safetyDisposition": {
+    "advisoryOnly": true,
+    "physicalEscalationAllowed": false,
+    "partnerLabHandoffAllowed": false,
+    "pilotDeploymentAllowed": false,
+    "publicPerformanceClaimMode": "blocked"
+  },
+  "evidenceRefs": [],
+  "issueCodes": [],
+  "artifactRefs": [
+    "C:\\claude\\SovrynClean\\outputs\\runtime\\hydra-one\\targets\\hydra_one_target_dossier_b5f24b7c-39e9-4b30-8f60-32033e963bdc.json"
+  ],
+  "summary": "Hydra One target dossier approved for advisory-only alkaline or AEM catalyst discovery inside the governed chemistry lane.",
+  "createdAt": "2026-03-22T19:13:50.160Z",
+  "updatedAt": "2026-03-22T19:13:50.160Z"
+}

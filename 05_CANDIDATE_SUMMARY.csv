@@ -1,0 +1,5 @@
+rank,variant,label,candidate_id,material_family,composition_summary,activity_score,durability_score,cost_efficiency_score,corrosion_resistance_score,manufacturability_score,surrogate_formula
+1,15,hydra_one_variant_15,hydra-one-candidate:d81b09a7-d630-42bc-ba32-87c2b7d69e74,mn_fe_oxyhydroxide,"mn_fe_oxyhydroxide; binder fraction 3; support porosity 4",0.91,0.88,0.74,0.90,0.75,MnFeO2H
+2,14,hydra_one_variant_14,hydra-one-candidate:19d4cfe8-e774-4604-96ce-76b58b6143c1,co_free_spinel_oxide,"co_free_spinel_oxide; binder fraction 2; support porosity 3",0.89,0.90,0.72,0.91,0.74,Fe3O4
+3,13,hydra_one_variant_13,hydra-one-candidate:6214a8e7-3d9a-416d-8a9e-5eaa3028f2ae,ni_fe_layered_hydroxide,"ni_fe_layered_hydroxide; binder fraction 1; support porosity 2",0.90,0.88,0.71,0.89,0.76,Ni2FeO6H6
+4,3,hydra_one_variant_3,hydra-one-candidate:a5939696-2103-4254-a688-305c7747cc39,ni_mo_nitride,"ni_mo_nitride; binder fraction 4; support porosity 4",0.94,0.78,0.76,0.79,0.74,Ni2Mo3N
