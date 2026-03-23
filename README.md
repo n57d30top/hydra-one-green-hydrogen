@@ -29,7 +29,7 @@ briefing/: Human-readable executive summaries, candidate details, and review gui
 evidence_bundle/computational_repro_bundle_2026-03-23/: Machine-readable evidence, surrogate relaxations, and final CIF files for the top candidates.
 attachments/: Ready-to-send ZIP archives (if applicable).
 ⛓️ Blockchain Anchoring (Prior Art)
-To establish verifiable prior art and proof of existence, the exact state of this repository release has been hashed and anchored to the Base L2 Blockchain (Ethereum).
+To establish verifiable prior art and proof of existence, the exact state of this public release has been hashed and anchored to the Base L2 Blockchain (Ethereum).
 
 Archive Name: hydra_one_professor_github_packet_2026-03-23.zip
 SHA256 Hash: 070ad1f7505f5390f926d29154597f5781509f4a613fc081efb28a3d03b7f992
@@ -42,4 +42,6 @@ This repository uses a Dual License approach for Open Science:
 
 All source code and scripts are licensed under the MIT License.
 All scientific data, structures, and CIF files are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
-Please see the LICENSE.md file for full details.
+Please see the 
+LICENSE.md
+ file for full details.
